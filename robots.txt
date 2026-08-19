@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Cule-inc.github.io/archive-whun6i/sitemap.xml
